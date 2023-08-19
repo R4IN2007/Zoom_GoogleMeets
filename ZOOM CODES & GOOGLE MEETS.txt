@@ -22,7 +22,7 @@ ID: 820 1105 9942 & Pass: 423192
 CUAIEED UNAM
 Language: (Spanish / Español)
 Date: August 23,2023
-Time: 4PM (CST - TENNESSEE TIME) / 5PM (México Time)
+Time: 4PM (CST - TENNESSEE TIME) / 3PM (México Time)
 Link:https://cuaieed-unam.zoom.us/my/labce (https://cuaieed-unam.zoom.us/j/6434838613)
 ------------------------------------------------------------------
 mediação e arbitragem - 3 a - 6ª feiras - prof paulo antonio / mediation and arbitration - 3rd to 6th - prof paulo antonio (Portuguese)
@@ -47,7 +47,10 @@ Date: August 21,2023
 Time: 6PM (CST - TENNESSEE TIME)
 Link:https://us02web.zoom.us/j/81386610204?pwd=a1Z0cUM3RksyVWlXUmZoZ1BxNkxQdz09
 ------------------------------------------------------------------
-
+Language: (Spanish / Español)
+Date: August 23,2023
+Time: 6PM (CST - TENNESSEE TIME) / 5PM (México Time)
+Link:https://us02web.zoom.us/j/81731314641?pwd=N25oL25jNXB5Wm5nRk5Sdk9EUlBDdz09
 ------------------------------------------------------------------
 
 ------------------------------------------------------------------
